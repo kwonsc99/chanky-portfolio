@@ -18,6 +18,11 @@ export const projectsData = {
         "공모전 프로젝트  |  주관: 산업통상자원부  |  상훈명: 우수상  |  참여인원: 3인 ",
       file: "award2.pdf",
     },
+    {
+      title: "ETC for Planning",
+      description: "기타 교내 프로젝트  |  실험 계획∙DB설계∙UI개선 ",
+      file: "etc.pdf",
+    },
   ],
   "Data Analysis": [
     {
